@@ -66,6 +66,10 @@ Services/models may or may not be there
 16. swagger-ui-express
     -> to show api docs for better usability of api end points
 
+# Online Demo
+
+[Click here](https://cn-skill-test-hospitalapi.onrender.com)
+
 ## How to run this project locally
 
 - Clone this repository
